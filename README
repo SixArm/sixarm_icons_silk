@@ -1,0 +1,33 @@
+SixArm.com » Art » FamFamFam Silk icons as gifs
+
+FamFamFam.com provides the excellent set of Silk icons.
+
+Our clients like these icons and also want a few customizations:
+
+  * change files from .png to .gif to work better with IE 6
+  * enhance contrast and sharpness for better visibility
+  * use web safe colors to work well with older systems
+  * create custom icons for checkbox actions
+  * create custom icons for a rating system of 1 to 5
+
+We customized the Silk icons via these Photoshop commands:
+
+  * Image > Mode > RGB
+  * Image > Adjustments > Levels: 30 0.70 255
+  * Filter > Sharpen > Sharpen Edges
+  * File > Save For Web > Gif + Adaptive
+
+We created custom icons in the same style for checkbox actions:
+
+  * checkbox_select_all.gif
+  * checkbox_select_none.gif
+
+We created custom icons for a rating system of 1 to 5,
+by copying five flag icons to files with these names:
+
+  * flag1.gif is a copy of flag_blue.gif
+  * flag2.gif is a copy of flag_green.gif
+  * flag3.gif is a copy of flag_yellow.gif
+  * flag4.gif is a copy of flag_orange.gif
+  * flag5.gif is a copy of flag_red.gif
+
